@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Color Theme Swatches in Hex */
+.hex { color: #071406; }
+.hex { color: #113310; }
+.hex { color: #174415; }
+.hex { color: #1B5119; }
+.hex { color: #4DE849; }
+.white {color: #f2f2f2}
+
+/* Color Theme Swatches in RGBA */
+.rgba { color: rgba(7, 20, 5, 1); }
+.rgba { color: rgba(17, 51, 16, 1); }
+.rgba { color: rgba(23, 68, 20, 1); }
+.rgba { color: rgba(26, 80, 24, 1); }
+.rgba { color: rgba(77, 232, 73, 1); }
+.white { color: rgba(242, 242, 242, 1); }

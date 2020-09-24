@@ -15,6 +15,7 @@ import background from "./matrix.jpg";
 import Avatar from "@material-ui/core/Avatar";
 import logo from './DevG_Logo_Light.png';
 
+
 function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">

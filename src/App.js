@@ -1,10 +1,19 @@
-import React from 'react';
-import './App.css';
-import Portfolio from "./portfolio";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Home from "./components/Home";
+import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Portfolio />
+    <div className="App">
+      <Navbar />
+      <Home />
+      <Portfolio />
+      <Contact />
+      <Footer />
+    </div>
   );
 }
 

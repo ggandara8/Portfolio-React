@@ -1,0 +1,18 @@
+.form {
+  margin: 20px;
+}
+
+.form-field {
+  text-align: center;
+  background-color: chocolate;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  box-shadow: none;
+  font-weight: 900;
+  margin: 20px;
+}
+
+#contact {
+  margin-top: 10px;
+}

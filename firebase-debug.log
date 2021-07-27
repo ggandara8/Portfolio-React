@@ -1,0 +1,25 @@
+[debug] [2020-11-18T01:12:04.366Z] ----------------------------------------------------------------------
+[debug] [2020-11-18T01:12:04.381Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ggand\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-11-18T01:12:04.381Z] CLI Version:   8.16.2
+[debug] [2020-11-18T01:12:04.381Z] Platform:      win32
+[debug] [2020-11-18T01:12:04.381Z] Node Version:  v12.16.1
+[debug] [2020-11-18T01:12:04.498Z] Time:          Tue Nov 17 2020 19:12:04 GMT-0600 (Central Standard Time)
+[debug] [2020-11-18T01:12:04.498Z] ----------------------------------------------------------------------
+[debug] [2020-11-18T01:12:04.498Z] 
+[debug] [2020-11-18T01:12:04.562Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-18T01:12:04.562Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ggand\OneDrive\Desktop\BootCamp\Portfolio-React
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+

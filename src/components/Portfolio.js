@@ -26,11 +26,11 @@ const projects = [
   },
   {
     id: "3",
-    title: "Guess The Quote",
+    title: "Guess The Quote 2.0",
     description:
       "Guess the quote game built with Javascript, Jquery, MySql, API, Express, Node app deployed with Heroku.",
-    github: "https://github.com/ggandara8/Guess-The-Quote",
-    deployedLink: "https://morning-reaches-31184.herokuapp.com/",
+    github: "https://github.com/ggandara8/Guess-The-Quote-2.0",
+    deployedLink: "https://guess-the-quote-2.herokuapp.com/",
   },
   {
     id: "4",

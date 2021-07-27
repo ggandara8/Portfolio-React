@@ -3,7 +3,7 @@ import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import "./Home.css";
 import image from "../images/IMG_1259.jpg";
-import resume from "../images/Resume Gerardo Gándara 2020 WD.pdf";
+import resume from "../images/Gerardo Gándara Resume 2021.pdf";
 
 export default function Home() {
   return (
@@ -23,7 +23,12 @@ export default function Home() {
             creating full stack websites, recording my sports podcast Desde Las
             Palomas and playing basketball. If you want to know more about feel
             free to contact me or are interested in hiring me, here is my{" "}
-            <a href={resume} target="_blank" style={{ color: "#fffefa" }}>
+            <a
+              href={resume}
+              target="_blank"
+              rel="noreferrer"
+              style={{ color: "#fffefa" }}
+            >
               resume
             </a>{" "}
             “If at first you don’t succeed; call it version 1.0”
